@@ -6,3 +6,5 @@ print("Now I understand Git and GitHub.")
 print("now i am learning this push method by own without chatgpt help.")
 print("This change was made on GitHub.")
 print("I am practicing Git Pull again.")
+
+print("This line came from GitHub using Pull.")
