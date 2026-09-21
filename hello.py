@@ -1,3 +1,6 @@
+
+
+
 print("Hello World!")
 print("I am learning Git and GitHub.")
 print("Git is tracking my changes.")
@@ -10,4 +13,6 @@ print("I am practicing Git Pull again.")
 print("This line came from GitHub using Pull.")
 
 
-print("I am working on my feature branch.")
+
+
+print("Learning merge with VS Code.")
